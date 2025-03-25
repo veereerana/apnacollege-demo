@@ -1,0 +1,145 @@
+0	Meetpal Singh	Bundu Katra	8859935736
+2	Surinder Pal Singh	Bundu Katra	9837891991
+3	Manmohan Singh Wadhwa	Bundu Katra	9897063976
+4	Happy Kapoor 	Bundu Katra
+5	Sukhwinder Singh Raja	Bundu Katra	9027695652
+6	Gurbachan Singh Dadu	Bundu Katra	7906666392
+7	Kuldip Singh	Bundu Katra
+8	Karnail Singh	Bundu Katra
+9	Satish Bhandari	Bundu Katra
+10	Ranjit Singh	Commander Colony	9997186662
+11	Iqbal Singh Khurana	Commander Colony	9634362427
+12	Karnail Singh/Parminder S	Commander Colony	9897214376
+13	Jaidar Singh	Defence Colony	9219545648
+14	Niranjan Singh 	Defence Estate Ph I
+15	Hardit Singh Bakshi	Defence Estate Ph I
+16	Gurdev Singh	Defence Estate Ph I	9258674333
+17	Seva Singh 	Defence Estate Ph I	9410408257
+18	Dilip Singh	Defence Estate Ph I
+19	Jaspal Singh Khurana	Defence Estate Ph I	9897080933
+20	Dr Gurdeep Singh	Defence Estate Ph I	9528680491
+21	Arvind Pal Singh	Defence Estate Ph I
+22	Rajbir Singh	Defence Estate Ph I	9319812912
+23	Arvinder Singh Oberai	Defence Estate Ph I	9837190738
+24	Upkar Singh	Defence Estate Ph I	9319533686
+25	Pratap Singh	Defence Estate Ph I
+26	Balwinder Kaur (Timma)	Defence Estate Ph I	9258740016
+27	Harjinder Singh (Vikki)	Defence Estate Ph II	9412170659
+28	Harjinder Singh	Defence Estate Ph II	9457482986
+29	Manjit Singh	Defence Estate Ph II	9410660283
+30	Arjinder Pal Singh	Defence Estate Ph II	9927127463
+31	Narinder Singh Nindi	Defence Estate Ph II	9412300213
+32	Sadhu Singh	Defence Estate Ph II
+33	Raminder Singh (Kuku)	Defence Estate Ph II	9639283725
+34	Jaspal Singh Wadhwa	Defence Estate Ph II
+35	Gurmeet Singh Wadhwa	Defence Estate Ph II	9837705889
+36	Jaswant Singh Wadhwa	Defence Estate Ph II	9897633841
+37	Kulwant Singh Wadhwa	Defence Estate Ph II	7017918600
+38	Amarjit Singh Wadhwa	Defence Estate Ph II	9412165477
+39	Daljit Singh Khurana	Defence Estate Ph II
+40	Rajender Singh/Paras Gupta	Defence Estate Ph II	9675803005
+41	Gurvinder Singh Sobti	Defence Estate Ph II	9368696468
+42	Basant Kumar suniyara 	Defence Estate Ph II
+43	Kultar Singh	Defence Estate Ph II
+44	Harjinder Singh	Defence Estate Ph II
+45	Baburam Sachdeva	Defence Estate Ph II
+46	Iqbal Singh Kochhar	Defence Estate Ph II
+47	Shamsher Singh	Defence Estate Ph II	8412161777
+48	Jarnail Singh	Defence Estate Ph II	9456942969
+49	Angad Singh Rekhi	Defence Estate Ph II
+50	Harvir Singh	Defence Estate Ph II	9634715915
+51	Surjit Singh Moongia	Defence Estate Ph II	9412170659
+52	Ekas 	Defence Estate Ph II
+53	Dalvinder Singh bhatiya	Defence Estate Ph II
+54	Inderpal Singh Puri	Defence Estate Ph II	9837151618
+55	Jagjit Singh Bagga	Defence Estate Ph II
+56	Satpal Singh Bagga	Defence Estate Ph II
+57	Surinder Singh 	Defence Estate Ph II
+58	Ravinder Singh	Defence Estate Ph II	9837720136
+59	Gurpreet Singh Bhatia	Defence Estate Ph II
+60	Sukhdev Singh	Defence Estate Ph II
+61	Gurcharan Singh Happy	Defence Estate Ph II	9536164347
+62	Harcharan Singh Channi 	Defence Estate Ph II	9319606806
+63	Surinder Singh	Defence Estate Ph II	9927401702
+64	Darshan Singh	Defence Estate Ph II
+65	Raju Verma	Defence Estate Ph II	9997274004
+66	Gulbeer Singh	Defence Estate Ph II	7017387843
+67	Tarvindra Singh Puri	Defence Estate Ph II	8433097822
+68	Sadha Singh	Devri Road	9927861230
+69	Kulwant Singh Mehar/Jsprit	Devri Road	7500656777
+70	Harjit Kaur/ Davinder Singh	Devri Road	8006934378
+71	Tajinder Singh / Simr	Devri Road	8755374770
+72	Davinder Singh 	Devri Road	8006934378
+73	Hardev Singh	Dwarka Green Ph II
+74	Manjeet Singh 	EME Colony	8171831733
+75	Narendra Singh	EME Colony
+76	Tajinder Singh 	EME Colony	8171172607
+77	Ranjeet Singh Oberoi	EME Colony	8279769440
+78	Satinder Singh Wadhwa	EME Colony
+79	Sriram Honda	EME Colony
+80	Sardar Singh	EME Colony
+81	Randhir Singh Oberoi	EME Colony	7017497639
+82	Jagjit Kaur/Kulwant Singh	EME Colony	8650270122
+83	Surinder Singh	EME Colony	9411600956
+84	Heera Singh	EME Colony	9358603863
+85	Satinder Singh Wadhwa	EME Colony	9834302286
+86	Kuldeep Singh 	Gopalpura
+87	Amarjeet Singh Nagi 	Gopalpura	9412396392
+88	Balvinder Singh	Gopalpura
+89	Kartar Singh 	Gopalpura	9412316306
+90	Onkar Singh	Gopalpura
+91	Satpal Singh	Gopalpura	6395542636
+92	Gurdyal Singh 	Gopalpura
+93	Paramjit Singh	Gopalpura
+94	Inderjit Singh	Gopalpura
+	Gyan Kaur (Uchi kothi)/Harjit	Gwalior Road	9917331296
+95	Paramjit Singh Vohra 	Madhunagar
+96	Inderjit Singh	Madhunagar	9897593495
+97	Jagjit Singh Puri	Madhunagar	8630947783
+98	Jaimal Singh Wadhwa	Madhunagar	9997547710
+99	Pritpal Singh Wadhwa	Madhunagar
+100	Darshan Kaur/Jasbir S Bagga	Madhunagar	9837414206
+101	Inderjit Singh (Jap)	Madhunagar	9259448808
+102	Harjit Singh (Sahib)	Madhunagar	9837050982
+103	Harvinder Singh AhluWalia	Madhunagar
+104	Gurdit Singh Bakhshi 	Madhunagar
+105	SS Kapoor	Madhunagar
+106	Amarjeet Kaur/JJ Singh	Madhunagar	9837059138
+107	Pritam Singh Khurana	Madhunagar	9760077098
+108	Nirmal Singh	Madhunagar
+109	Kultaran Singh Sethi(Machhi)	Madhunagar	7253054913
+110	Daljeet Singh	Madhunagar
+111	Gaurav (paint)	Madhunagar	9152702875
+112	Tony Sethi	Madhunagar
+113	Anil Arora	Madhunagar
+114	Pradeep Arora	Madhunagar
+115	Sudhanshu Buttaliya 	Madhunagar
+116	Punam Kaur 	Madhunagar	7060743461
+117	Bhupendra Singh Wadhwa	Madhunagar	9634107997
+118	Sujata Mehta	Madhunagar
+119	Gurmeet Singh Gulati	Madhunagar
+120	Vikram Singh Gill	Madhunagar
+121	Mohanlal Mehta	Madhunagar
+122	Sarabjit Singh Sachdeva	Madhunagar	9319066632
+123	Jagjit Singh Vohra	Madhunagar
+124	Ravinder Singh Sethi	Madhunagar	8439813486
+125	Upkar Singh(Ravi)	Madhunagar	8171348401
+126	Jagjit Singh Wadhwa	Madhunagar	6396508053
+127	Manjit Singh Wadhwa	Madhunagar	9808207417
+128	Dr.Inderjit Singh Bhasin	Madhunagar	9760388042
+129	Jasbir Singh Grewal	Madhunagar	9639309494
+130	Parveen Kumar	Nagla Kali
+131	Sanjay Kumar	Nagla Kali
+132	Inderpal Singh Vohra 	Narottam kunj
+133	Charandas Honda	Narottam kunj
+134	Surinder Singh Bhinder	Narottam kunj	9410406455
+135	Narendra Singh Lalia	New Madhunagar	9917785455
+136	Satnam Singh Lalia	New Madhunagar	9634070010
+137	Paramjit Singh	Phool Bag	9319105545
+138	Mukhtiar Singh	Sevla	9897361508
+139	Harjit Singh 	Sevla	9808752695
+140	Amreek Singh	Sevla	9808432491
+141	Jasbir Singh 	Sevla	8439307454
+142	Gurdev Singh	Sevla	9997498417
+143	Malkiat Singh	Shaktinagar	9456649202
+	Jitendra Singh
